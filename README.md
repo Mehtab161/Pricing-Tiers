@@ -44,7 +44,7 @@ Example Plans with Icons:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/pricing-table.git
+   git clone https://github.com/Mehtab161/Pricing-Tiers.git
    ```
 2. Navigate to the project folder:  
    ```bash
